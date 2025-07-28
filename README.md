@@ -1,0 +1,1 @@
+# Como-Otimizar-Fluxo-de-Caixa-usando-Power-Query-no-Excel
